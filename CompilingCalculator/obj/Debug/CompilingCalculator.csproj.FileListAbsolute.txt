@@ -1,0 +1,7 @@
+C:\Workspace\Repo\donet\Compiler and Interpreter\CompilingCalculator\CompilingCalculator\CompilingCalculator\bin\Debug\CompilingCalculator.exe.config
+C:\Workspace\Repo\donet\Compiler and Interpreter\CompilingCalculator\CompilingCalculator\CompilingCalculator\bin\Debug\CompilingCalculator.exe
+C:\Workspace\Repo\donet\Compiler and Interpreter\CompilingCalculator\CompilingCalculator\CompilingCalculator\bin\Debug\CompilingCalculator.pdb
+C:\Workspace\Repo\donet\Compiler and Interpreter\CompilingCalculator\CompilingCalculator\CompilingCalculator\obj\Debug\CompilingCalculator.csprojAssemblyReference.cache
+C:\Workspace\Repo\donet\Compiler and Interpreter\CompilingCalculator\CompilingCalculator\CompilingCalculator\obj\Debug\CompilingCalculator.csproj.CoreCompileInputs.cache
+C:\Workspace\Repo\donet\Compiler and Interpreter\CompilingCalculator\CompilingCalculator\CompilingCalculator\obj\Debug\CompilingCalculator.exe
+C:\Workspace\Repo\donet\Compiler and Interpreter\CompilingCalculator\CompilingCalculator\CompilingCalculator\obj\Debug\CompilingCalculator.pdb
